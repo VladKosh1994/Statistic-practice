@@ -1,1 +1,1 @@
-# Statistic-practice
+# Statistic practice
